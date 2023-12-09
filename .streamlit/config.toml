@@ -1,0 +1,17 @@
+# .streamlit/config.toml
+
+[theme]
+primaryColor = "#b4d7ea"  # Set your desired primary color (coral in this example)
+backgroundColor = "#15384b"  # Set your desired background color (alice blue in this example)
+secondaryBackgroundColor = "#0f100c"  # Set your desired secondary background color
+textColor = "#c9f4cc"
+
+[sidebar]
+backgroundColor = "#90caf9"  # Set your desired sidebar background color (light blue in this example)
+
+[header]
+backgroundColor = "#1565c0"  # Set your desired header background color (dark blue in this example)
+foregroundColor = "#ffffff"  # Set your desired header text color
+
+[menu]
+backgroundColor = "#b3e0ff"  # Set your desired menu background color (lighter blue in this example)
